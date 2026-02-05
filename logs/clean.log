@@ -1,0 +1,153 @@
+[2026-02-02 00:17:31] ➡️ Facebook (aplicación de Windows)
+[2026-02-02 00:17:31] 📘 Facebook (Windows): limpieza de cache y temporales
+[2026-02-02 00:17:31] ℹ️ Facebook no está instalado como app de Windows
+[2026-02-02 00:17:31] ✅ Limpieza finalizada
+[2026-02-02 00:22:14] 🔍 Iniciando análisis global...
+[2026-02-02 00:22:14] ➡️ Brave Browser (cache e imágenes) (ANALIZAR)
+[2026-02-02 00:22:14] 🦁 Brave Browser: análisis y limpieza de cache
+[2026-02-02 00:22:14] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Cache
+[2026-02-02 00:22:14] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Code Cache
+[2026-02-02 00:22:14] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\GPUCache
+[2026-02-02 00:22:14] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Local\BraveSoftware\Brave-Browser\User Data\Default\Media Cache
+[2026-02-02 00:22:14] ✅ Cache de Brave limpiada: 0.00 MB liberados
+[2026-02-02 00:22:14] ➡️ Google Chrome (cache e imágenes) (ANALIZAR)
+[2026-02-02 00:22:14] 🌐 Google Chrome: análisis y limpieza de cache
+[2026-02-02 00:22:17] ℹ️ Modo ANALIZAR: no se borrarán archivos
+[2026-02-02 00:22:17] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Google\Chrome\User Data\Default\Cache
+[2026-02-02 00:22:17] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Google\Chrome\User Data\Default\Code Cache
+[2026-02-02 00:22:17] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Google\Chrome\User Data\Default\GPUCache
+[2026-02-02 00:22:17] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Google\Chrome\User Data\Default\Media Cache
+[2026-02-02 00:22:17] 📊 Chrome puede liberar: 13.40 MB
+[2026-02-02 00:22:17] ➡️ Microsoft Edge (cache e imágenes) (ANALIZAR)
+[2026-02-02 00:22:17] 🌐 Microsoft Edge: análisis y limpieza de cache
+[2026-02-02 00:22:18] ℹ️ Modo ANALIZAR: no se borrarán archivos
+[2026-02-02 00:22:18] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Microsoft\Edge\User Data\Default\Cache
+[2026-02-02 00:22:19] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Microsoft\Edge\User Data\Default\Code Cache
+[2026-02-02 00:22:19] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Microsoft\Edge\User Data\Default\GPUCache
+[2026-02-02 00:22:19] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Microsoft\Edge\User Data\Default\Media Cache
+[2026-02-02 00:22:19] 📊 Edge puede liberar: 686.42 MB
+[2026-02-02 00:22:19] ➡️ Mozilla Firefox (cache e imágenes) (ANALIZAR)
+[2026-02-02 00:22:19] 🦊 Mozilla Firefox: análisis y limpieza de cache
+[2026-02-02 00:22:19] ℹ️ No se encontraron perfiles de Firefox
+[2026-02-02 00:22:19] ➡️ Opera Browser (cache e imágenes) (ANALIZAR)
+[2026-02-02 00:22:19] 🎭 Opera Browser: análisis y limpieza de cache
+[2026-02-02 00:22:19] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Roaming\Opera Software\Opera Stable\Cache
+[2026-02-02 00:22:19] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Roaming\Opera Software\Opera Stable\Code Cache
+[2026-02-02 00:22:19] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Roaming\Opera Software\Opera Stable\GPUCache
+[2026-02-02 00:22:19] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Roaming\Opera Software\Opera Stable\Media Cache
+[2026-02-02 00:22:19] ✅ Cache de Opera limpiada: 0.00 MB liberados
+[2026-02-02 00:22:19] 📊 Análisis completado: 699.83 MB se podrían liberar
+[2026-02-02 00:31:18] 🔍 Iniciando análisis global...
+[2026-02-02 00:31:18] ➡️ Facebook (aplicación de Windows) (ANALIZAR)
+[2026-02-02 00:31:18] 📘 Facebook (Windows): limpieza de cache y temporales
+[2026-02-02 00:31:18] ℹ️ Facebook no está instalado como app de Windows
+[2026-02-02 00:31:18] ➡️ Java (cache y temporales) (ANALIZAR)
+[2026-02-02 00:31:18] ☕ Java: análisis y limpieza de cache
+[2026-02-02 00:31:18] ➡️ Analizando: C:\Users\Azzlaer\AppData\LocalLow\Sun\Java\Deployment\cache
+[2026-02-02 00:31:18] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Temp\javaws
+[2026-02-02 00:31:18] 📊 Java puede liberar: 0.00 MB
+[2026-02-02 00:31:18] ➡️ Prefetch (avanzado) (ANALIZAR)
+[2026-02-02 00:31:18] ⚠️ PREFETCH: limpieza avanzada
+[2026-02-02 00:31:18] ℹ️ Esta opción puede ralentizar el primer inicio de aplicaciones
+[2026-02-02 00:31:18] ℹ️ Windows regenerará estos archivos automáticamente
+[2026-02-02 00:31:18] ❌ Error accediendo a Prefetch: [WinError 5] Acceso denegado: 'C:\\Windows\\Prefetch'
+[2026-02-02 00:31:18] ➡️ Papelera de reciclaje (ANALIZAR)
+[2026-02-02 00:31:18] ♻️ Vaciando papelera de reciclaje...
+[2026-02-02 00:31:18] ✅ Papelera vaciada correctamente
+[2026-02-02 00:31:18] ➡️ Archivos temporales (ANALIZAR)
+[2026-02-02 00:31:18] 🧹 Iniciando limpieza de archivos temporales...
+[2026-02-02 00:31:18] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Local\Temp
+[2026-02-02 00:31:18] ➡️ Limpiando: C:\Windows\Temp
+[2026-02-02 00:31:18] ✅ Temporales limpiados: 0.04 MB liberados
+[2026-02-02 00:31:18] ➡️ Cache de Windows (ANALIZAR)
+[2026-02-02 00:31:18] 🪟 Iniciando limpieza de cache de Windows...
+[2026-02-02 00:31:18] ➡️ Limpiando: C:\Windows\SoftwareDistribution\Download
+[2026-02-02 00:31:18] ➡️ Limpiando: C:\Windows\Logs
+[2026-02-02 00:31:18] ✅ Cache de Windows limpiada: 0.00 MB liberados
+[2026-02-02 00:31:18] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:31:26] ⚠️ No hay opciones seleccionadas
+[2026-02-02 00:31:29] 🔍 Iniciando análisis global...
+[2026-02-02 00:31:29] ➡️ Java (cache y temporales) (ANALIZAR)
+[2026-02-02 00:31:29] ☕ Java: análisis y limpieza de cache
+[2026-02-02 00:31:29] ➡️ Analizando: C:\Users\Azzlaer\AppData\LocalLow\Sun\Java\Deployment\cache
+[2026-02-02 00:31:29] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Temp\javaws
+[2026-02-02 00:31:29] 📊 Java puede liberar: 0.00 MB
+[2026-02-02 00:31:29] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:34:37] 🔍 Iniciando análisis global...
+[2026-02-02 00:34:37] ➡️ Minecraft Java (cache y logs) (ANALIZAR)
+[2026-02-02 00:34:37] 🎮 Minecraft Java: cache y logs
+[2026-02-02 00:34:37] ➡️ Analizando: C:\Users\Azzlaer\AppData\Roaming\.minecraft\logs
+[2026-02-02 00:34:37] ➡️ Analizando: C:\Users\Azzlaer\AppData\Roaming\.minecraft\crash-reports
+[2026-02-02 00:34:37] ➡️ Analizando: C:\Users\Azzlaer\AppData\Roaming\.minecraft\webcache2
+[2026-02-02 00:34:37] ➡️ Analizando: C:\Users\Azzlaer\AppData\Roaming\.minecraft\cache
+[2026-02-02 00:34:37] 📊 Puede liberar 79.68 MB (Minecraft Java)
+[2026-02-02 00:34:37] 📊 Análisis completado: 79.68 MB se podrían liberar
+[2026-02-02 00:35:14] 🔍 Iniciando análisis global...
+[2026-02-02 00:35:14] ➡️ Minecraft Bedrock (cache y logs) (ANALIZAR)
+[2026-02-02 00:35:14] 🎮 Minecraft Bedrock: cache y logs
+[2026-02-02 00:35:14] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\LocalCache
+[2026-02-02 00:35:14] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\TempState
+[2026-02-02 00:35:14] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\AC\Temp
+[2026-02-02 00:35:14] ➡️ Analizando: C:\Users\Azzlaer\AppData\Local\Packages\Microsoft.MinecraftUWP_8wekyb3d8bbwe\logs
+[2026-02-02 00:35:14] 📊 Puede liberar 0.00 MB (Minecraft Bedrock)
+[2026-02-02 00:35:14] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:42:04] 🔍 Iniciando análisis global...
+[2026-02-02 00:42:04] ➡️ Steam (cache y logs) (ANALIZAR)
+[2026-02-02 00:42:04] ➡️ Analizando: D:\Games\Steam\appcache
+[2026-02-02 00:42:04] ➡️ Analizando: D:\Games\Steam\logs
+[2026-02-02 00:42:04] ➡️ Analizando: D:\Games\Steam\dump
+[2026-02-02 00:42:04] 📊 Puede liberar 0.00 MB (Steam cache)
+[2026-02-02 00:42:04] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:42:09] 🔍 Iniciando análisis global...
+[2026-02-02 00:42:09] ➡️ Archivos temporales (ANALIZAR)
+[2026-02-02 00:42:09] 🧹 Iniciando limpieza de archivos temporales...
+[2026-02-02 00:42:09] ➡️ Limpiando: C:\Users\Azzlaer\AppData\Local\Temp
+[2026-02-02 00:42:09] ➡️ Limpiando: C:\Windows\Temp
+[2026-02-02 00:42:09] ✅ Temporales limpiados: 0.00 MB liberados
+[2026-02-02 00:42:09] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:42:12] 🔍 Iniciando análisis global...
+[2026-02-02 00:42:12] ➡️ Cache de Windows (ANALIZAR)
+[2026-02-02 00:42:12] 🪟 Iniciando limpieza de cache de Windows...
+[2026-02-02 00:42:12] ➡️ Limpiando: C:\Windows\SoftwareDistribution\Download
+[2026-02-02 00:42:12] ➡️ Limpiando: C:\Windows\Logs
+[2026-02-02 00:42:12] ✅ Cache de Windows limpiada: 0.00 MB liberados
+[2026-02-02 00:42:12] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:42:17] 🔍 Iniciando análisis global...
+[2026-02-02 00:42:17] ➡️ Papelera de reciclaje (ANALIZAR)
+[2026-02-02 00:42:17] ♻️ Vaciando papelera de reciclaje...
+[2026-02-02 00:42:17] ✅ Papelera vaciada correctamente
+[2026-02-02 00:42:17] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:42:20] 🔍 Iniciando análisis global...
+[2026-02-02 00:42:20] ➡️ Prefetch (avanzado) (ANALIZAR)
+[2026-02-02 00:42:20] ⚠️ PREFETCH: limpieza avanzada
+[2026-02-02 00:42:20] ℹ️ Esta opción puede ralentizar el primer inicio de aplicaciones
+[2026-02-02 00:42:20] ℹ️ Windows regenerará estos archivos automáticamente
+[2026-02-02 00:42:20] ❌ Error accediendo a Prefetch: [WinError 5] Acceso denegado: 'C:\\Windows\\Prefetch'
+[2026-02-02 00:42:20] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:47:23] 🔍 Iniciando análisis global...
+[2026-02-02 00:47:23] ➡️ Epic Games Launcher (cache y logs) (ANALIZAR)
+[2026-02-02 00:47:23] 🎮 Epic Games Launcher: cache y logs
+[2026-02-02 00:47:23] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\webcache
+[2026-02-02 00:47:23] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\webcache_4147
+[2026-02-02 00:47:23] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\Logs
+[2026-02-02 00:47:23] 📊 Puede liberar 0.00 MB (Epic Games Launcher)
+[2026-02-02 00:47:23] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:47:27] 🔍 Iniciando análisis global...
+[2026-02-02 00:47:27] ➡️ Epic Games Launcher (cache y logs) (ANALIZAR)
+[2026-02-02 00:47:27] 🎮 Epic Games Launcher: cache y logs
+[2026-02-02 00:47:27] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\webcache
+[2026-02-02 00:47:27] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\webcache_4147
+[2026-02-02 00:47:27] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\Logs
+[2026-02-02 00:47:27] 📊 Puede liberar 0.00 MB (Epic Games Launcher)
+[2026-02-02 00:47:27] 📊 Análisis completado: 0.00 MB se podrían liberar
+[2026-02-02 00:47:29] 🔍 Iniciando análisis global...
+[2026-02-02 00:47:29] ➡️ Epic Games Launcher (cache y logs) (ANALIZAR)
+[2026-02-02 00:47:29] 🎮 Epic Games Launcher: cache y logs
+[2026-02-02 00:47:29] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\webcache
+[2026-02-02 00:47:29] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\webcache_4147
+[2026-02-02 00:47:29] ➡️ Analizando: D:\Epic Games\EpicGamesLauncher\Saved\Logs
+[2026-02-02 00:47:29] 📊 Puede liberar 0.00 MB (Epic Games Launcher)
+[2026-02-02 00:47:29] ➡️ Facebook (aplicación de Windows) (ANALIZAR)
+[2026-02-02 00:47:29] 📘 Facebook (Windows): limpieza de cache y temporales
+[2026-02-02 00:47:29] ℹ️ Facebook no está instalado como app de Windows
+[2026-02-02 00:47:29] 📊 Análisis completado: 0.00 MB se podrían liberar
